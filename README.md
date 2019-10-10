@@ -1,9 +1,9 @@
-**Market-Basket-Analysis**
+                                                         **MARKET BASKET ANALYSIS**
 
 
-Discovering any interesting relationships (or associations) between customer’s transactions and the item(s) they’ve purchased.
+Discovering any interesting relationships (or associations) between customer’s transactions and the item(s) they’ve purchased applying apriori algorithm. 
 
-**POINTS TO REVIEW:**
+**Points to review**
 * Customer Brand Preferences
 * Predicting products sales 
 * Market basket analysis 
